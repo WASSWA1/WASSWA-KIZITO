@@ -1,0 +1,13 @@
+body{
+	background-color:#21E1C7;
+}
+.h1{
+	color:#2B2793;
+	text-align:center;
+	font-weight:bold;
+}
+h2{
+	text-decoration:underline;
+	display:block;
+	font-size:3em;
+}

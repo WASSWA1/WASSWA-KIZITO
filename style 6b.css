@@ -1,0 +1,35 @@
+boody{
+	color:grblue;
+	
+}
+div.a{
+	background-color:white;
+	text-align:center;
+	margin-right:30px;
+	margin-left:30px;
+	display:block;
+	background-color:pink;
+	border:3px solid white;
+}
+div.b{
+	background-color:white;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:center;
+	margin-right:30px;
+	margin-left:30px;
+	display:block;
+	background-color:lightblue;
+	border:3px solid white;
+}
+div.c{
+	background-color:white;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:center;
+	margin-right:30px;
+	margin-left:30px;
+	display:block;
+	background-color:orange;
+	border:3px solid white;
+}
